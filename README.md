@@ -2,3 +2,5 @@
 change was made on master branch
 
 and this change was made on branch 1
+
+but this was made on branch 2
